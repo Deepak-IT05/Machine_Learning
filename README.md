@@ -60,5 +60,5 @@ I regularly practise Machine Learning programs and update this repository as I l
 Suggestions, feedback and learning resources are welcome!
 
 ## 🔗 Connect With Me
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn:(https://www.linkedin.com/in/deepak-b-958056254?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
